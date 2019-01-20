@@ -1,5 +1,4 @@
-# App Center Push Notification
-Using App Center push notification.
+# Using App Center push notification for xamarin projects
 
 ## Xamarin Android and Xamarin.Forms Android
 Firstly you will have to set up the platform specific push services. We need to create an new Project in fireabase console then we can get SenderID and Server Key in Counfiguration tab.
